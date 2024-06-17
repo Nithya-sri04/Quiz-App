@@ -11,9 +11,7 @@ This is a simple quiz application built with React that randomly selects 10 ques
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
+1.Clone the repository:
 git clone https://github.com/Nithya-sri04/Quiz-app.git
 cd Quiz-app
 
